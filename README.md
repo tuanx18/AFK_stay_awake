@@ -8,10 +8,7 @@ A **lightweight Python script** that prevents your computer from going to sleep,
 
 Perfect for long downloads, video renders, remote desktop sessions, online meetings (when AFK), or any situation where you need the system to stay awake without changing power settings.
 
-![Demo GIF or screenshot](https://via.placeholder.com/800x400.png?text=Keep+Awake+in+Action)  
-*(replace with real recording — highly recommended)*
-
-## ✨ Features
+## Features
 
 - **Random small mouse movements** every ~30 seconds (configurable)  
 - **Harmless Shift key press** every ~2 minutes (configurable)  
@@ -21,15 +18,11 @@ Perfect for long downloads, video renders, remote desktop sessions, online meeti
 - **Console feedback** — see every action in real time  
 - No tray icon, no background service — just run and forget  
 
-## 📦 Ideal Repository Name
-
-`keep-awake-python`
-
-## 📝 Short Description (for GitHub / PyPI)
+## Short Description (for GitHub / PyPI)
 
 Prevent system sleep / screen lock by simulating random mouse movements, occasional scrolling, and harmless key presses.
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 # 1. Install dependencies (only two small libraries)
